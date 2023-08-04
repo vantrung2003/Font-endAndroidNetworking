@@ -6,7 +6,7 @@
 - mongodb
 
 ## Installation
-- step 1: `git clone https://github.com/vanh6803/backendAndroidNetworking`
+- step 1: `https://github.com/vantrung2003/Font-endAndroidNetworking.git`
 - step 2: `npm install`
 
 ## Usage
